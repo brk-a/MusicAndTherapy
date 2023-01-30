@@ -22,11 +22,11 @@ Moreover, the respondents also ranked the intensity of their feelings of anxiety
 
 ## Aim
 
-* data Cleaning and Processing: Clean and prepare the data for analysis
+* data cleaning and processing: Clean and prepare the data for analysis
 
-* data Visualisation: Visualise the data to make it easy to understand
+* data visualisation: Visualise the data to make it easy to understand
 
-* data Reporting: Use the insights and correlations within the data to make recommendations
+* data reporting: Use the insights and correlations within the data to make recommendations
 
 ## Summary of findings
 
